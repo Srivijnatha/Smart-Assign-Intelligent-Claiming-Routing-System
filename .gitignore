@@ -1,0 +1,23 @@
+.env
+backend/target/
+**/__pycache__/
+node_modules/
+.idea/
+*.iml
+.DS_Store
+
+# Environment files
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+*.pyc
+
+# Build files
+dist/
+build/
+
